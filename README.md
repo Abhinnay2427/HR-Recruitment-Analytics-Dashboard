@@ -9,6 +9,7 @@ An end-to-end Power BI project that transforms raw recruitment data into an inte
 This project analyzes recruitment activity across departments, sources, and time periods to help HR stakeholders understand hiring performance, candidate flow, and pipeline efficiency. The final deliverable is a single-page interactive **Power BI dashboard** built from a structured Excel data model, supported by data cleaning, exploratory analysis, and KPI tracking.
 
 **Key business questions answered:**
+
 - How many candidates, interviews, hires, and open positions do we have?
 - Which departments are hiring the most?
 - Which sourcing channels (LinkedIn, Referral, Indeed, Naukri) perform best?
@@ -138,7 +139,10 @@ The Excel workbook is structured into three normalized tables to support relatio
 
 ## 📥 Raw Converted Data
 
-Original raw data was converted from its source format into Excel (`.xlsx`) to allow easy cleaning, validation, and direct import into Power BI's data model.
+Original raw data was converted from its source format into Excel to allow easy cleaning, validation, and direct import into Power BI's data model.
+
+<img width="1908" height="752" alt="Raw Data " src="https://github.com/user-attachments/assets/226d886e-9146-4202-8141-d99045006080" />
+
 
 ---
 
