@@ -56,16 +56,6 @@ https://1drv.ms/x/c/00b1e276a52f7d08/IQAAGHCfgdS0RYgx-rh81K2PAduv3h1khv9GXasdOL3
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
-
-Before dashboard design, EDA was performed to understand:
-- Candidate volume by **Department** and **Source**
-- Candidate **Status** distribution (Interview → Hired → Rejected → Offer)
-- **Hiring Rate** (Hires ÷ Total Candidates)
-- Year-over-year trends in **Applications** and **Hires** (2025 vs 2026)
-- Interview load per **Interviewer/Manager**
-
----
 
 ## 📊 Power BI Dashboard
 
